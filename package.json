@@ -1,0 +1,13 @@
+{
+  "name": "automated-testing-dream-portal",
+  "version": "1.0.0",
+  "description": "Playwright tests for Dream Portal",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "playwright": "^1.44.1"
+  },
+  "type": "module"
+}
